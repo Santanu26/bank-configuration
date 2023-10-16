@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to CityBank loans related prod APIs "
+  contactDetails:
+    name: "Santanu - Product Owner"
+    email: "santanu@citybank.com"
+  onCallSupport:
+    - (723) 656-8709
+    - (156) 342-0956
