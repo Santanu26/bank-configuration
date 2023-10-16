@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to CityBank accounts related prod APIs, Some changes "
   contactDetails:
-    name: "Shabana - Product Owner"
+    name: "Shabana - Product Architect"
     email: "shabana@citybank.com"
   onCallSupport:
     - (453) 392-4829
